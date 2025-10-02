@@ -1,0 +1,40 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "home_page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "img_entete_accueil": {
+      "type": "component",
+      "component": "plume.hero-header-home",
+      "repeatable": false
+    },
+    "Accueil_definition_sophro_sono": {
+      "type": "component",
+      "component": "plume.section-home-quit",
+      "repeatable": false
+    },
+    "slider_accueil": {
+      "type": "component",
+      "component": "plume.section-home-slider",
+      "repeatable": false
+    },
+    "Accueil_accompagnement": {
+      "type": "component",
+      "component": "plume.section-home-accomp",
+      "repeatable": false
+    },
+    "coordonnees_page_accueil": {
+      "type": "component",
+      "component": "plume.coordonnees",
+      "repeatable": false
+    }
+  }
+}

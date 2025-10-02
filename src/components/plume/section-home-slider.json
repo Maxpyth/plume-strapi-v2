@@ -1,0 +1,68 @@
+{
+  "collectionName": "components_plume_section_home_sliders",
+  "info": {
+    "displayName": "section_home_slider"
+  },
+  "options": {},
+  "attributes": {
+    "Titre": {
+      "type": "string"
+    },
+    "Titre_img_1": {
+      "type": "string"
+    },
+    "img_1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_2": {
+      "type": "string"
+    },
+    "img_2": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_3": {
+      "type": "string"
+    },
+    "img_3": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_4": {
+      "type": "string"
+    },
+    "img_4": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_5": {
+      "type": "string"
+    },
+    "img_5": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    }
+  },
+  "config": {}
+}

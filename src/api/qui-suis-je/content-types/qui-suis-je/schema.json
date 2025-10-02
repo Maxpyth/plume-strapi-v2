@@ -1,0 +1,112 @@
+{
+  "kind": "singleType",
+  "collectionName": "qui_suis_jes",
+  "info": {
+    "singularName": "qui-suis-je",
+    "pluralName": "qui-suis-jes",
+    "displayName": "qui_suis_je"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titre_page": {
+      "type": "string"
+    },
+    "section1_img1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "section1_titre": {
+      "type": "string"
+    },
+    "section1_description": {
+      "type": "blocks"
+    },
+    "section1_img2": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "section2_titre": {
+      "type": "string"
+    },
+    "exp1_img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "exp1_description": {
+      "type": "blocks"
+    },
+    "exp2_img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "exp2_description": {
+      "type": "blocks"
+    },
+    "exp3_img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "exp3_description": {
+      "type": "blocks"
+    },
+    "exp4_img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "exp4_description": {
+      "type": "blocks"
+    },
+    "exp5_img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "exp5_description": {
+      "type": "blocks"
+    }
+  }
+}

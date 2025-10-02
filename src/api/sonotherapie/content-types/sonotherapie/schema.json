@@ -1,0 +1,87 @@
+{
+  "kind": "singleType",
+  "collectionName": "sonotherapies",
+  "info": {
+    "singularName": "sonotherapie",
+    "pluralName": "sonotherapies",
+    "displayName": "Sonotherapie"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "head": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "titre": {
+      "type": "string"
+    },
+    "section1_titre": {
+      "type": "string"
+    },
+    "section1_paragraphe1": {
+      "type": "blocks"
+    },
+    "section1_liste": {
+      "type": "blocks"
+    },
+    "section1_lien_video": {
+      "type": "string"
+    },
+    "section1_paragraphe_2": {
+      "type": "blocks"
+    },
+    "section2_titre": {
+      "type": "string"
+    },
+    "section2_img1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "section2_paragraphe1": {
+      "type": "blocks"
+    },
+    "section3_titre": {
+      "type": "string"
+    },
+    "section3_img1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "section3_paragraphe1": {
+      "type": "blocks"
+    },
+    "section4_titre": {
+      "type": "string"
+    },
+    "section4_paragraph1": {
+      "type": "blocks"
+    },
+    "section5_titre": {
+      "type": "string"
+    },
+    "section5_paragraphe1": {
+      "type": "blocks"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "evenements",
+  "info": {
+    "singularName": "evenement",
+    "pluralName": "evenements",
+    "displayName": "evenement"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "jour_evenement": {
+      "type": "string"
+    },
+    "mois_evenement": {
+      "type": "string"
+    },
+    "annee_evenement": {
+      "type": "string"
+    },
+    "heure_evenement": {
+      "type": "string"
+    },
+    "date_evenement": {
+      "type": "datetime"
+    },
+    "titre_evenement": {
+      "type": "string"
+    },
+    "lieu_evenement": {
+      "type": "string"
+    },
+    "adresse_rue_evenement": {
+      "type": "string"
+    },
+    "adresse_cp_ville_evenement": {
+      "type": "string"
+    },
+    "telephone_reservation_evenement": {
+      "type": "string"
+    },
+    "img_mignature_evenement": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

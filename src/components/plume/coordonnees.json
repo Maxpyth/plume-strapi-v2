@@ -1,0 +1,45 @@
+{
+  "collectionName": "components_plume_coordonnees",
+  "info": {
+    "displayName": "coordonnées"
+  },
+  "options": {},
+  "attributes": {
+    "fonce": {
+      "type": "boolean"
+    },
+    "Titre": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Nom": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "lien_instagram": {
+      "type": "string"
+    },
+    "titre_compte_instagram": {
+      "type": "string"
+    },
+    "telephone": {
+      "type": "string"
+    },
+    "details": {
+      "type": "blocks"
+    },
+    "text_boutton": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

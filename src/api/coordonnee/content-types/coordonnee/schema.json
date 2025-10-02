@@ -1,0 +1,59 @@
+{
+  "kind": "singleType",
+  "collectionName": "coordonnees",
+  "info": {
+    "singularName": "coordonnee",
+    "pluralName": "coordonnees",
+    "displayName": "coordonnee"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Titre": {
+      "type": "string"
+    },
+    "Nom": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "lien_instagram": {
+      "type": "string"
+    },
+    "titre_compte_instagram": {
+      "type": "string"
+    },
+    "telephone": {
+      "type": "string"
+    },
+    "details": {
+      "type": "richtext"
+    },
+    "text_boutton": {
+      "type": "string"
+    },
+    "img_clair": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "img_fonce": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

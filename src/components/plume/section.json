@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_plume_sections",
+  "info": {
+    "displayName": "Section",
+    "icon": "rocket"
+  },
+  "options": {},
+  "attributes": {
+    "Titre": {
+      "type": "string"
+    },
+    "Couleur_de_fond": {
+      "type": "enumeration",
+      "enum": [
+        "foncé",
+        "clair"
+      ]
+    },
+    "mediasection": {
+      "type": "component",
+      "component": "shared.media",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

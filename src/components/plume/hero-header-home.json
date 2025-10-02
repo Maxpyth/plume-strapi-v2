@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_plume_hero_header_homes",
+  "info": {
+    "displayName": "hero_header_home"
+  },
+  "options": {},
+  "attributes": {
+    "Titre_ordinateur": {
+      "type": "string"
+    },
+    "Sous_titre_ordinateur": {
+      "type": "string"
+    },
+    "Titre_mobile": {
+      "type": "string"
+    },
+    "Sous_titre_mobile": {
+      "type": "string"
+    },
+    "Image_home": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    }
+  },
+  "config": {}
+}

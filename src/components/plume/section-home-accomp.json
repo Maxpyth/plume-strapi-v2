@@ -1,0 +1,60 @@
+{
+  "collectionName": "components_plume_section_home_accomps",
+  "info": {
+    "displayName": "section_home_accomp"
+  },
+  "options": {},
+  "attributes": {
+    "Titre": {
+      "type": "string"
+    },
+    "img_ord": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_1": {
+      "type": "string"
+    },
+    "Texte_img_1": {
+      "type": "text"
+    },
+    "img_1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_2": {
+      "type": "string"
+    },
+    "Texte_img_2": {
+      "type": "text"
+    },
+    "img_2": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_3": {
+      "type": "string"
+    },
+    "img_3": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    }
+  },
+  "config": {}
+}

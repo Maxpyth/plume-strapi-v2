@@ -1,0 +1,47 @@
+{
+  "collectionName": "components_plume_section_home_quits",
+  "info": {
+    "displayName": "section_home_quit"
+  },
+  "options": {},
+  "attributes": {
+    "Titre": {
+      "type": "string"
+    },
+    "img_1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_1": {
+      "type": "string"
+    },
+    "Paragraphe_img1": {
+      "type": "text"
+    },
+    "text_btn_img_1": {
+      "type": "string"
+    },
+    "img_2": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "Titre_img_2": {
+      "type": "string"
+    },
+    "Paragraphe_img2": {
+      "type": "text"
+    },
+    "text_btn_img_2": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
